@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 70cbcd4f81d454b4aa6531502894100d, type: 3}
+  m_Name: MakeMoveState
+  m_EditorClassIdentifier: 
+  Actions:
+  - {fileID: 11400000, guid: 29db289b9154ec344ba431c1c29c005f, type: 2}
+  Transitions:
+  - {fileID: 11400000, guid: 5873529fac21a8f42b6e81f477d5e2ff, type: 2}
+  InitialActions: []
+  ExitActions:
+  - {fileID: 11400000, guid: 6528729d3e89bec46a181de5415a2469, type: 2}
+  sceneGizmoColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}

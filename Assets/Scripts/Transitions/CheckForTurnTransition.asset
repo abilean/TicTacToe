@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6efb83148c747b441ac6e73187865fa1, type: 3}
+  m_Name: CheckForTurnTransition
+  m_EditorClassIdentifier: 
+  decision: {fileID: 11400000, guid: a1e807b220b398842932c47ac87f9ea2, type: 2}
+  trueState: {fileID: 11400000, guid: 53604c0d4d8d4a94694a2883b949909c, type: 2}
+  falseState: {fileID: 0}
